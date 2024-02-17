@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#root{
+   height: 90vh;
+   width :98vw ;
+}
+.form-submission{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   border: 2px solid red;
+   height : 70%
+}
+.input-field{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.input-field>label {
+    font-size: 20px;
+}
+.error{
+    font-size: 22px;
+    color: red;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+   
+}
+.btn>button{
+    padding: 10px;
+    border: none;
+    font-size: medium;
+}
