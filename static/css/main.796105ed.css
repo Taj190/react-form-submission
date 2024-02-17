@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}#root{height:90vh;width:98vw}.form-submission{align-items:center;border:2px solid red;height:70%;justify-content:center}.form-submission,.input-field{display:flex;flex-direction:column}.input-field{padding:10px}.input-field>label{font-size:20px}.error{color:red;font-size:22px}.btn{display:flex;justify-content:center}.btn>button{border:none;font-size:medium;padding:10px}
+/*# sourceMappingURL=main.796105ed.css.map*/

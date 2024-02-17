@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-form-submission/static/css/main.796105ed.css",
+    "main.js": "/react-form-submission/static/js/main.bfae2d8a.js",
+    "index.html": "/react-form-submission/index.html",
+    "main.796105ed.css.map": "/react-form-submission/static/css/main.796105ed.css.map",
+    "main.bfae2d8a.js.map": "/react-form-submission/static/js/main.bfae2d8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796105ed.css",
+    "static/js/main.bfae2d8a.js"
+  ]
+}
